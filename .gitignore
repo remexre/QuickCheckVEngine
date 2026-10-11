@@ -1,7 +1,10 @@
 /dist
 /dist-newstyle
+/.direnv/
 /.stack-work/
 /QCVEngine.iml
 /out/
 cabal.project.local*
 /bin/
+result
+result-*
